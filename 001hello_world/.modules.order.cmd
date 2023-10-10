@@ -1,0 +1,1 @@
+cmd_/home/tranviquang/workspace/ldd/custom_drivers/001hello_world/modules.order := {   echo /home/tranviquang/workspace/ldd/custom_drivers/001hello_world/main.ko; :; } | awk '!x[$$0]++' - > /home/tranviquang/workspace/ldd/custom_drivers/001hello_world/modules.order

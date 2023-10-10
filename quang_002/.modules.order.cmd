@@ -1,0 +1,1 @@
+cmd_/home/tranviquang/workspace/ldd/custom_drivers/quang_002/modules.order := {   echo /home/tranviquang/workspace/ldd/custom_drivers/quang_002/pcd.ko; :; } | awk '!x[$$0]++' - > /home/tranviquang/workspace/ldd/custom_drivers/quang_002/modules.order

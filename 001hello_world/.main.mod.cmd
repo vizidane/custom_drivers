@@ -1,0 +1,1 @@
+cmd_/home/tranviquang/workspace/ldd/custom_drivers/001hello_world/main.mod := { echo  /home/tranviquang/workspace/ldd/custom_drivers/001hello_world/main.o;  echo; } > /home/tranviquang/workspace/ldd/custom_drivers/001hello_world/main.mod

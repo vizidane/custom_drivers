@@ -1,0 +1,1 @@
+cmd_/home/tranviquang/workspace/ldd/custom_drivers/quang_009_overlay/pcd_platform_driver_dt.mod := { echo  /home/tranviquang/workspace/ldd/custom_drivers/quang_009_overlay/pcd_platform_driver_dt.o;  echo; } > /home/tranviquang/workspace/ldd/custom_drivers/quang_009_overlay/pcd_platform_driver_dt.mod

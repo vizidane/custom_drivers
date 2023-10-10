@@ -1,0 +1,2 @@
+/home/tranviquang/workspace/ldd/custom_drivers/quang_002/pcd.o
+

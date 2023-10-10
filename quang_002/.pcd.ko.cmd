@@ -1,0 +1,1 @@
+cmd_/home/tranviquang/workspace/ldd/custom_drivers/quang_002/pcd.ko := arm-linux-gnueabihf-ld -r  -EL  --build-id  -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds -o /home/tranviquang/workspace/ldd/custom_drivers/quang_002/pcd.ko /home/tranviquang/workspace/ldd/custom_drivers/quang_002/pcd.o /home/tranviquang/workspace/ldd/custom_drivers/quang_002/pcd.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_/home/tranviquang/workspace/ldd/custom_drivers/quang_006/pcd_device_setup.mod := { echo  /home/tranviquang/workspace/ldd/custom_drivers/quang_006/pcd_device_setup.o;  echo; } > /home/tranviquang/workspace/ldd/custom_drivers/quang_006/pcd_device_setup.mod

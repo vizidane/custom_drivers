@@ -1,0 +1,1 @@
+cmd_/home/tranviquang/workspace/ldd/custom_drivers/quang_002/Module.symvers := sed 's/ko$$/o/' /home/tranviquang/workspace/ldd/custom_drivers/quang_002/modules.order | scripts/mod/modpost -m -a   -o /home/tranviquang/workspace/ldd/custom_drivers/quang_002/Module.symvers -e -i Module.symvers   -T -
